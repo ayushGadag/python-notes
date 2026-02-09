@@ -1,5 +1,7 @@
 import threading
 import time 
+import _thread
+
 
 def task(name):
     print(f"{name} strated")
