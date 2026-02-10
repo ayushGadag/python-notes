@@ -5,7 +5,7 @@ logs = [
 "ERROR Timeout"
 ]
 
-count =  0
+count =0
 
 for i in logs:
     if "ERROR" in i:
