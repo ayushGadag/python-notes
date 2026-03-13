@@ -1,4 +1,4 @@
-logs = [
+  logs = [
     "INFO User login",
 "ERROR Database failed",
 "WARNING Disk full",
